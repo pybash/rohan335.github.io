@@ -1,0 +1,39 @@
+@font-face {
+  font-family: BebasNeue;
+  src: url(BebasNeue-Regular.ttf);
+}
+@font-face {
+  font-family: Helvetica;
+  src: url(Helvetica.ttf);
+}
+
+h1 {
+  font-family: 'Source Serif Pro';
+  color: #C41230;
+  font-size: 500%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://www.cappex.com/sites/default/files/styles/college_hero_desktop/public/images/hero/college/211440_hero.jpg?itok=2q3tfYQB');
+}
+
+#demo {
+  color: whitesmoke;
+  font-family: BebasNeue;
+  margin-top: 10%;
+}
+
+#haha {
+  flex-direction: row;
+}
+
+#heading {
+  font-family: 'BebasNeue';
+  color: whitesmoke;
+  font-size: 500%;
+  letter-spacing: .25rem;
+  text-align: center;
+  margin-top: -25px;
+}
