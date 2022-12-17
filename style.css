@@ -16,7 +16,7 @@ h1 {
 }
 
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2021-12/UChicago%20campus%20and%20Midway.jpg?itok=3qLIdMhf');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://mc-1b49d921-43a2-4264-88fd-647979-cdn-endpoint.azureedge.net/-/media/images/logo-background/campus_aerial_2-min.png?h=627&iar=0&w=1200&rev=d36b0970f9a34d84a096aedd844c5817&hash=8B454CD588430B9011993908192801EB');
 }
 
 #demo {
